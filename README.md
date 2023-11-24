@@ -17,6 +17,7 @@
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Towards-Explainable-Code-Readability-Classification-with-Graph-un-edited-SourceCode](https://github.com/zjhM3l/Towards-Explainable-Code-Readability-Classification-with-Graph-un-edited-SourceCode)
+- [MIT-Machine-Learning-Plus-Computer-Vision](https://github.com/zjhM3l/MIT-Machine-Learning-Plus-Computer-Vision)
 - [COMP3030J-Tabibito-Travel-Agency-Software-Engineering-Project-II-2022-2023](https://github.com/zjhM3l/COMP3030J-Tabibito-Travel-Agency-Software-Engineering-Project-II-2022-2023)
 - [COMP3009J-Information-Retrival-BM25-Based-Search-Engine](https://github.com/zjhM3l/COMP3009J-Information-Retrival-BM25-Based-Search-Engine)
 - [COMP3011J-Mobile-Computing-OpenCV-Based-Image-Process-Application](https://github.com/zjhM3l/COMP3011J-Mobile-Computing-OpenCV-Based-Image-Process-Application)
