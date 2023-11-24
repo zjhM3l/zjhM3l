@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jiahe Zhang</h1>
 
 
-<h3 align="center">Software Engineering Enthusiast with a Drive for Innovation</h3>
+<h3 align="center">A Film Effects Dreamer who Accidentally Fell in Love with Software Engineering</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zjhM3l&label=Profile%20views&color=0e75b6&style=flat" alt="echo-cool" /> </p>
 
