@@ -20,6 +20,7 @@
 - [COMP3011J-Mobile-Computing-OpenCV-Based-Image-Process-Application](https://github.com/zjhM3l/COMP3011J-Mobile-Computing-OpenCV-Based-Image-Process-Application)
 - [COMP3033J-Computer-Graphics-OpenGL-Animated-Scence](https://github.com/zjhM3l/COMP3033J-Computer-Graphics-OpenGL-Animated-Scence)
 - [COMP3030J-BJUT-Forum-Software-Engineering-Project-I-2021-2022](https://github.com/zjhM3l/COMP3030J-BJUT-Forum-Software-Engineering-Project-I-2021-2022)
+- [BDIC3025J-Security-Privacy-DES-Algorithm-Chat](https://github.com/zjhM3l/BDIC3025J-Security-Privacy-DES-Algorithm-Chat)
 - [COMP3008J-Distributed-Systems-Java-Based-P2P-Chatroom](https://github.com/zjhM3l/COMP3008J-Distributed-Systems-Java-Based-P2P-Chatroom)
 - [COMP2011J-Object-Oriented-Programming-SpaceInvaders](https://github.com/zjhM3l/COMP2011J-Object-Oriented-Programming-SpaceInvaders)
 - [BDIC3023J-Software-Methodology-Interview-Platform](https://github.com/zjhM3l/BDIC3023J-Software-Methodology-Interview-Platform)
