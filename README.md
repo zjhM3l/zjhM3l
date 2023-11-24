@@ -27,6 +27,9 @@
 - [COMP3008J-Distributed-Systems-Java-Based-P2P-Chatroom](https://github.com/zjhM3l/COMP3008J-Distributed-Systems-Java-Based-P2P-Chatroom)
 - [COMP2011J-Object-Oriented-Programming-SpaceInvaders](https://github.com/zjhM3l/COMP2011J-Object-Oriented-Programming-SpaceInvaders)
 - [BDIC3023J-Software-Methodology-Interview-Platform](https://github.com/zjhM3l/BDIC3023J-Software-Methodology-Interview-Platform)
-
 <!-- BLOG-POST-LIST:END -->
+
+<div>
+<span><img align="left" src="https://github.com/zjhM3l/github-stats/raw/master/generated/languages.svg" alt="zjhM3l" /></span>
+ </div>
 
