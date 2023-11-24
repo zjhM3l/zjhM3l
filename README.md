@@ -8,9 +8,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zjhM3l" alt="zjhM3l" /></a> </p>
  -->
-- 🔭 I’m currently working on 
-
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning CUDA
 
 - 📫 Reach me at **zhangjiahe24@outlook.com**
 
