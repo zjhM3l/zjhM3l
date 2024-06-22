@@ -8,7 +8,11 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zjhM3l" alt="zjhM3l" /></a> </p>
  -->
-- 📖 Dual-degree undergraduate at [BJUT](https://english.bjut.edu.cn)&[UCD](https://www.ucd.ie/), _BSc in Software Engineering (First Class Honours)_ from UCD, _BE in Software Engineering (Honours)_ from BJUT.
+- 📖 Dual-degree undergraduate at [BJUT](https://english.bjut.edu.cn)&[UCD](https://www.ucd.ie/)
+  
+- _BSc in Software Engineering (First Class Honours)_ from UCD
+
+- _BE in Software Engineering (Honours)_ from BJUT.
  
 - 🌱 I’m currently learning **CUDA**
 
