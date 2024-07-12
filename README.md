@@ -14,7 +14,7 @@
 
 - _BE in Software Engineering (Honours)_ from BJUT.
  
-- 🌱 I’m currently learning **CUDA**
+- 🌱 I’m currently a graduate student at RICE University 
 
 - 📫 Reach me at **zhangjiahe24@outlook.com**
 
