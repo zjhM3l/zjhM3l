@@ -12,7 +12,7 @@
   
 - _BSc Hons in Software Engineering (First Class Honours)_ from UCD
 
-- _BE Hons in Software Engineering _ from BJUT.
+- _BE Hons in Software Engineering_ from BJUT.
  
 - 🌱 I’m currently a graduate student at RICE University 
 
