@@ -8,7 +8,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zjhM3l" alt="zjhM3l" /></a> </p>
  -->
-- 🌱 I’m currently a graduate student at [RICE University](https://www.rice.edu/) 
+- 🌱 I’m currently a graduate student at [RICE](https://www.rice.edu/) 
 
 - 📖 Dual-degree undergraduate at [BJUT](https://english.bjut.edu.cn)&[UCD](https://www.ucd.ie/)
   
