@@ -20,6 +20,7 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [MERN-RICEBOOK](https://github.com/zjhM3l/MERN-RICEBOOK)
 - [Towards-Explainable-Code-Readability-Classification-with-Graph-un-edited-SourceCode](https://github.com/zjhM3l/Towards-Explainable-Code-Readability-Classification-with-Graph-un-edited-SourceCode)
 - [MIT-Machine-Learning-Plus-Computer-Vision](https://github.com/zjhM3l/MIT-Machine-Learning-Plus-Computer-Vision)
 - [COMP3030J-Tabibito-Travel-Agency-Software-Engineering-Project-II-2022-2023](https://github.com/zjhM3l/COMP3030J-Tabibito-Travel-Agency-Software-Engineering-Project-II-2022-2023)
@@ -30,7 +31,6 @@
 - [BDIC3025J-Security-Privacy-DES-Algorithm-Chat](https://github.com/zjhM3l/BDIC3025J-Security-Privacy-DES-Algorithm-Chat)
 - [COMP3008J-Distributed-Systems-Java-Based-P2P-Chatroom](https://github.com/zjhM3l/COMP3008J-Distributed-Systems-Java-Based-P2P-Chatroom)
 - [COMP2011J-Object-Oriented-Programming-SpaceInvaders](https://github.com/zjhM3l/COMP2011J-Object-Oriented-Programming-SpaceInvaders)
-- [BDIC3023J-Software-Methodology-Interview-Platform](https://github.com/zjhM3l/BDIC3023J-Software-Methodology-Interview-Platform)
 <!-- BLOG-POST-LIST:END -->
 
 <div>
