@@ -10,8 +10,8 @@
  ```java
 public class MelbourneZhang {
     private int age = 22;
-    public String[] traits = new String[] { "creative", "curious", "problem solver" };
-    public String[] hobbies = new String[] { "Coding!", "Film Effects", "Traveling", "Music", "Learning new tech!" };
+    public String[] traits = new String[] { "creative", "curious", "problem solver", "diligent" };
+    public String[] hobbies = new String[] { "Coding!", "Music", "Fitness", "Swimming", "Learning new tech!" };
 }
 ```
 
@@ -42,13 +42,13 @@ public class MelbourneZhang {
 
 ### 🛠️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=c,css,html,java,js,typescript,python,sql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,css,html,java,js,typescript,python)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=react,vue,bootstrap,sass)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,flask,tensorflow,mongodb,mysql,sqlite)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=docker,firebase,git,linux,github,vscode,idea,insomnia,vmware,opencv)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,firebase,git,linux,github,vscode,idea,opencv)](https://skillicons.dev)
 
 <div>
 <span><img align="left" src="https://github.com/zjhM3l/github-stats/raw/master/generated/languages.svg" alt="zjhM3l" /></span>
