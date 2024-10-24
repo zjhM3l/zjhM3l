@@ -42,7 +42,7 @@ public class MelbourneZhang {
 
 ### 🛠️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=c,css,html,java,js,typescript,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,css,golang,html,java,js,typescript,python)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=react,vue,bootstrap,sass)](https://skillicons.dev)
 
