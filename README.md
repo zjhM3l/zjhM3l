@@ -46,9 +46,10 @@ public class MelbourneZhang {
 
 [![My Skills](https://skillicons.dev/icons?i=react,vue,bootstrap,sass)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,flask,tensorflow,mongodb,mysql,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,flask,redis,tensorflow,mongodb,mysql,sqlite)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=docker,firebase,git,linux,github,vscode,idea,opencv)](https://skillicons.dev)
+
 
 <div>
 <span><img align="left" src="https://github.com/zjhM3l/github-stats/raw/master/generated/languages.svg" alt="zjhM3l" /></span>
