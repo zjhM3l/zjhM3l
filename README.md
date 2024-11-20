@@ -48,7 +48,7 @@ public class MelbourneZhang {
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,flask,redis,tensorflow,mongodb,mysql,sqlite)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=docker,firebase,git,linux,github,vscode,idea,opencv)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,firebase,git,linux,github,vscode,idea,opencv,postman)](https://skillicons.dev)
 
 
 <div>
