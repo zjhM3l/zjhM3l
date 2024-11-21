@@ -27,6 +27,7 @@ public class MelbourneZhang {
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Byte-Dance-Winter-Bootcamp-Internship-Ecommerce](https://github.com/zjhM3l/go-e-commerce)
 - [MERN-RICEBOOK](https://github.com/zjhM3l/MERN-RICEBOOK)
 - [Towards-Explainable-Code-Readability-Classification-with-Graph-un-edited-SourceCode](https://github.com/zjhM3l/Towards-Explainable-Code-Readability-Classification-with-Graph-un-edited-SourceCode)
 - [MIT-Machine-Learning-Plus-Computer-Vision](https://github.com/zjhM3l/MIT-Machine-Learning-Plus-Computer-Vision)
@@ -37,7 +38,6 @@ public class MelbourneZhang {
 - [COMP3030J-BJUT-Forum-Software-Engineering-Project-I-2021-2022](https://github.com/zjhM3l/COMP3030J-BJUT-Forum-Software-Engineering-Project-I-2021-2022)
 - [BDIC3025J-Security-Privacy-DES-Algorithm-Chat](https://github.com/zjhM3l/BDIC3025J-Security-Privacy-DES-Algorithm-Chat)
 - [COMP3008J-Distributed-Systems-Java-Based-P2P-Chatroom](https://github.com/zjhM3l/COMP3008J-Distributed-Systems-Java-Based-P2P-Chatroom)
-- [COMP2011J-Object-Oriented-Programming-SpaceInvaders](https://github.com/zjhM3l/COMP2011J-Object-Oriented-Programming-SpaceInvaders)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🛠️ Tech Stack
