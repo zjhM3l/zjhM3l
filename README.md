@@ -27,7 +27,6 @@ public class MelbourneZhang {
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Byte-Dance-Winter-Bootcamp-Internship-Ecommerce](https://github.com/zjhM3l/go-e-commerce)
 - [MERN-RICEBOOK](https://github.com/zjhM3l/MERN-RICEBOOK)
 - [Towards-Explainable-Code-Readability-Classification-with-Graph-un-edited-SourceCode](https://github.com/zjhM3l/Towards-Explainable-Code-Readability-Classification-with-Graph-un-edited-SourceCode)
 - [MIT-Machine-Learning-Plus-Computer-Vision](https://github.com/zjhM3l/MIT-Machine-Learning-Plus-Computer-Vision)
