@@ -28,6 +28,7 @@ public class MelbourneZhang {
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [MERN-RICEBOOK](https://github.com/zjhM3l/MERN-RICEBOOK)
+- [RICE-AUTODRONE](https://github.com/zjhM3l/Rice-Autodrone)
 - [Towards-Explainable-Code-Readability-Classification-with-Graph-un-edited-SourceCode](https://github.com/zjhM3l/Towards-Explainable-Code-Readability-Classification-with-Graph-un-edited-SourceCode)
 - [MIT-Machine-Learning-Plus-Computer-Vision](https://github.com/zjhM3l/MIT-Machine-Learning-Plus-Computer-Vision)
 - [COMP3030J-Tabibito-Travel-Agency-Software-Engineering-Project-II-2022-2023](https://github.com/zjhM3l/COMP3030J-Tabibito-Travel-Agency-Software-Engineering-Project-II-2022-2023)
