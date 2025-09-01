@@ -9,7 +9,7 @@
 
  ```java
 public class MelbourneZhang {
-    private int age = 22;
+    private int age = 23;
     public String[] traits = new String[] { "creative", "curious", "problem solver", "diligent" };
     public String[] hobbies = new String[] { "Coding!", "Music", "Fitness", "Swimming", "Learning new tech!" };
 }
