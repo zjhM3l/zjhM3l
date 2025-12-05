@@ -14,8 +14,11 @@ public class MelbourneZhang {
     public String[] hobbies = new String[] { "Coding!", "Music", "Fitness", "Swimming", "Learning new tech!" };
 }
 ```
+- 💼 I’m currently a **Backend Engineer** at **[ByteDance (TikTok)](https://www.bytedance.com/)**
 
-- 🌱 I’m currently a graduate student at [RICE](https://www.rice.edu/) 
+- 🎓 Master of Electrical and Computer Engineering (ECE) at **[RICE](https://www.rice.edu/)**
+
+- 🚗 **Current Project:** Building an **In-vehicle Voice Dialogue Software**. Interested? Check out the details at **[Catch-Up](https://github.com/zjhM3l/Catch-Up)**!
 
 - 📖 Dual-degree undergraduate at [BJUT](https://english.bjut.edu.cn)&[UCD](https://www.ucd.ie/)
   
