@@ -31,7 +31,7 @@ public class MelbourneZhang {
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [MERN-RICEBOOK](https://github.com/zjhM3l/MERN-RICEBOOK)
-- [RICE-AUTODRONE](https://github.com/zjhM3l/Rice-Autodrone)
+- [RICE-AUTODRONE](https://github.com/zjhM3l/Autodrone)
 - [Coming-Soon-Take-Out](https://github.com/zjhM3l/coming-soon)
 - [Yalnix-OS](https://github.com/zjhM3l/Yalnix-OS)
 - [Towards-Explainable-Code-Readability-Classification-with-Graph-un-edited-SourceCode](https://github.com/zjhM3l/Towards-Explainable-Code-Readability-Classification-with-Graph-un-edited-SourceCode)
