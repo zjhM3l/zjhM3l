@@ -18,7 +18,7 @@ public class MelbourneZhang {
 
 - 🎓 Master of Electrical and Computer Engineering (ECE) at **[RICE](https://www.rice.edu/)**
 
-- 🚗 **Current Project:** Building an **In-vehicle Voice Dialogue Software**. Interested? Check out the details at **[Catch-Up](https://github.com/zjhM3l/Catch-Up)**!
+- 🚗 **Current Project:** Building an **In-vehicle Voice Dialogue Software**. Interested? Check out the details at **[RantLane]([https://github.com/zjhM3l/Catch-Up](https://github.com/zjhM3l/RantLane))**!
 
 - 📖 Dual-degree undergraduate at [BJUT](https://english.bjut.edu.cn)&[UCD](https://www.ucd.ie/)
   
